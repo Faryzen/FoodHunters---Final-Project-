@@ -1,2 +1,2 @@
-# FoodHunters---Final-Project-
-membangun layanan informasi tentang makanan berbasis website boostrap 5 
+# FoodHunters-Final-Project
+membangun layanan informasi tentang makanan berbasis website yang di bangun dengan teknologi framework boostrap 5 
