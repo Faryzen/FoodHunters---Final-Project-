@@ -42,17 +42,23 @@
 /* Akhir Navbar CSS */
 
 .main {
-  background: url(img/stro.jpg) no-repeat;
+  background: url(img/food.webp);
+  font-family: 'Lobster', cursive;
   background-size: cover;
-  height: 100vh;
-  background-position: 90% 50%;
+  height: 80vh;
+  position: sticky;
+  background-position: 60% 85%;
   width: 100%;
+}
+#unc {
+  font-family: 'Lobster', cursive;
 }
 .btn1 {
   height: 45px;
   width: 35%;
   font-size: 110%;
   border: none;
+  margin: auto;
   outline: none;
   text-decoration: inherit;
   background-color: rgb(133, 255, 174);
@@ -77,12 +83,6 @@
 h1 {
   font-weight: 700;
 }
-#text {
-  margin-bottom: 50px;
-  font-size: 310%;
-  position: relative;
-  top: 50px;
-}
 .card:hover {
   box-shadow: -2px -1px 25px -4px rgba(133, 255, 174);
   -webkit-box-shadow: -2px -1px 25px -4px rgba(133, 255, 174);
@@ -90,15 +90,15 @@ h1 {
   transition: 0.4s;
 }
 .apple {
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(img/food.webp) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(img/pare.webp) no-repeat;
   background-size: cover;
-  height: 100vh;
-  background-position: 90% 100%;
+  height: 80vh;
+  background-position: 60% 80%;
   width: 100%;
 }
 .apple h1 {
   font-family: 'Lobster', cursive;
-  font-size: 350%;
+  font-size: 300%;
 }
 .news {
   position: unset;
