@@ -178,3 +178,18 @@ h1 {
   margin-left: 20px;
 }
 /* akhir photo navabr akun */
+
+/* preview */
+.gallery {
+  margin: 10px 50px;
+}
+.gallery img {
+  transition: 1s;
+  padding: 15px;
+  width: 200px;
+}
+.gallery img:hover {
+  filter: grayscale(100%);
+  transform: scale(1.1);
+}
+/* preview */
